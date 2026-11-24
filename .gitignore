@@ -1,0 +1,4 @@
+# 本地状态（每台机器不同，不要提交）
+state.json
+state.test.json
+*.log
